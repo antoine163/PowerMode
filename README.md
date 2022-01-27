@@ -26,7 +26,5 @@ Sortie 2 ldo (J5, J6): 3.3V / 250mA
 Sortie 3 buck (J9): 2.1V  
 Sortie 3 ldo (J5, J6): 1.8V / 200mA  
 
-![mod_buck_xc9263](mod_buck_xc9263/mod_buck_xc9263.png)
-
-
-
+![mod_buck_xc9263](mod_buck_xc9263/mod_buck_xc9263.png) 
+![mod_buck_xc9263](mod_buck_xc9263/mod_buck_xc9263_photo.jpg)
