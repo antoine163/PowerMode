@@ -1,0 +1,3 @@
+[submodule "mod_buck_xc9263/maxima-circuits"]
+	path = mod_buck_xc9263/maxima-circuits
+	url = https://github.com/tedyapo/maxima-circuits.git
