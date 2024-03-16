@@ -68,6 +68,12 @@
     "visible_layers": "000f0fc_80000001",
     "zone_display_mode": 0
   },
+  "git": {
+    "repo_password": "",
+    "repo_type": "",
+    "repo_username": "",
+    "ssh_key": ""
+  },
   "meta": {
     "filename": "mod_boost_ap3012.kicad_prl",
     "version": 3

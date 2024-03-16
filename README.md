@@ -28,3 +28,6 @@ Sortie 3 ldo (J5, J6): 1.8V / 200mA
 
 ![mod_buck_xc9263](mod_buck_xc9263/mod_buck_xc9263.png) 
 ![mod_buck_xc9263](mod_buck_xc9263/mod_buck_xc9263_photo.jpg)
+
+# Model 3D
+Certain models 3D ne sont pas include dans ce project, il vous faudra les télécharger sur le site des fabricants si voue en avais besoin.
